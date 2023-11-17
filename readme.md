@@ -7,7 +7,7 @@ This project is a web application that showcases the top 50 chess players along 
 ### Technologies Used
 
 - **Frontend:** React and Vite with Typescript
-- **Backend:** FastAPI
+- **Backend:** FastAPI and postgresql
 
 ## Installation
 
