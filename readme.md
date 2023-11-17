@@ -18,8 +18,9 @@ This project is a web application that showcases the top 50 chess players along 
    cd frontend
    bun install
    bun run dev
-   ```
-2.  Navigate to the `backend` directory.
+  ```
+### Backend
+  2.  Navigate to the `backend` directory.
     ```bash
     cd backend
     pip install -r requirements.txt
